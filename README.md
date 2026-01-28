@@ -1,6 +1,6 @@
 # Hi 👋, I'm @gh0st
 - I break stuff for a living.
-- 🔗[research](https://google.com)
+- 🔗[research](https://gh0st-inth3-sh3ll.github.io)
 
 **General:**<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
